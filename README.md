@@ -167,8 +167,8 @@ javac -version
 **1. Clone repositori**
 
 ```
-git clone https://github.com/<username>/<nama-repositori>.git
-cd <nama-repositori>
+git clone https://github.com/RizkyFahrianSubban/PBO_Tugas_1_Inheritance_Polimorfisme.git
+cd PBO_Tugas_1_Inheritance_Polimorfisme
 ```
 
 **2. Kompilasi seluruh file**
