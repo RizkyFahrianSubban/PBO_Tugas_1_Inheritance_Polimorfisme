@@ -248,10 +248,10 @@ Perulangan di atas memanggil method yang **sama** (`printInfo()`), tetapi hasiln
 
 | | |
 | --- | --- |
-| **Nama** | *(isi nama kamu)* |
-| **NIM** | *(isi NIM kamu)* |
-| **Kelas** | *(isi kelas kamu)* |
+| **Nama** | Rizky Fahrian Subban |
+| **NIM** | F1D02510090 |
+| **Kelas** | INFORMATIKA B |
 | **Mata Kuliah** | Pemrograman Berorientasi Objek (PBO) |
-| **GitHub** | [@username-kamu](https://github.com/username-kamu) |
+| **GitHub** | https://github.com/RizkyFahrianSubban |
 
 ⭐ Jika proyek ini bermanfaat, jangan lupa beri bintang pada repositori ini! ⭐
